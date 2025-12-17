@@ -1,0 +1,7 @@
+name : Riya
+roll_no : 13
+marks : [98, 67, 89, 68, 90]
+total : 412
+average : 82.4
+percentage : 82.39999999999999
+Grade : B
