@@ -13,5 +13,4 @@ A beginner-friendly **Core Python project** that manages student results and sav
 - Python (Core Python only)
 - File Handling (.txt)
 
-## 📂 Project Structure
 
